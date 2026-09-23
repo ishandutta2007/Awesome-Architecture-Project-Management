@@ -86,6 +86,7 @@ While purpose-built open-source A/E practice platforms are still emerging, below
 - **[Speckle Server](https://github.com/specklesystems/speckle-server)** <a href="https://github.com/specklesystems/speckle-server/stargazers"><img src="https://img.shields.io/github/stars/specklesystems/speckle-server?style=social&color=white" alt="Speckle Stars"/></a>  
   🏗️ The open-source data platform for 3D AEC workflows—connects CAD/BIM models (Revit, Rhino, AutoCAD) directly to project collaboration pipelines.
 
+- **[OpenBooks](https://github.com/braedonsaunders/openbooks)** — Open-source books / ERP with construction-friendly accounting for A/E and contractor firms.
 ---
 
 ## 🤝 How to Contribute
